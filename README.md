@@ -1,8 +1,6 @@
-# MohamedMedhat
-
 # 👋 Hi, I'm Mohamed Medhat
 
-## 💻 Frontend Developer | React & TypeScript Enthusiast
+## 💻 Frontend Developer | React JS
 
 I'm a frontend developer passionate about building modern, responsive, and user-friendly web applications using JavaScript, TypeScript, and React. I enjoy creating sleek UIs, managing complex state, and writing clean, maintainable code.
 
@@ -42,6 +40,6 @@ I'm a frontend developer passionate about building modern, responsive, and user-
 
 ### 📫 Connect with Me
 
-- 🌐 [LinkedIn](#) https://www.linkedin.com/in/mohamed-medhatt/
-- 💼 [Upwork](#) https://www.upwork.com/freelancers/~017a248e47fc0532ce?mp_source=share
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mohamed-medhatt/) 
+- 💼 [Upwork](https://www.upwork.com/freelancers/~017a248e47fc0532ce?mp_source=share)
 - 📧 Email: mohamed.medhatt158@gmail.com
