@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohamed-medhatt/]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-medhatt/)
 
 ---
 
@@ -38,6 +38,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=MohamedM158&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MohamedM158&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedM158&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedM158&theme=gruvbox&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
